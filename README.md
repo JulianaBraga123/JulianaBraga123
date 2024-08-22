@@ -1,6 +1,15 @@
-## Hi there 👋
+Boas vindas ao meu perfil💙💙
 
-<!--
+Meu nome é Juliana Braga:💖
+*Estou estudando na Alura
+*Estou me desenvolvendo na linguagem JavaScript
+*Utilizo esse espaço para minha organização e compartilhamento dos meus projeos desenvolvidos.
+
+Você pode entrar em contato comigo 📫
+0000111379074xsp@al.educacao.sp.gov.br
+ou
+ju.braga1612@gmail.com
+
 **JulianaBraga123/JulianaBraga123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
